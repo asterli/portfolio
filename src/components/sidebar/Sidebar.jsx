@@ -37,7 +37,7 @@ const Sidebar = () => {
             </li>
 
             <li className="nav__item">
-              <a href="contact" className="nav__link">
+              <a href="#contact" className="nav__link">
               <i className="icon-bubble"></i>
               </a>
             </li>
