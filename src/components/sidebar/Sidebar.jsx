@@ -1,6 +1,6 @@
 import React from 'react';
 import "./sidebar.css";
-import Logo from "../../assets/logo.svg"
+import Logo from "../../assets/pixel-cat-yawn.gif"
 
 const Sidebar = () => {
   return (
@@ -31,7 +31,7 @@ const Sidebar = () => {
             </li>
 
             <li className="nav__item">
-              <a href="#portfolio" className="nav__link">
+              <a href="#work" className="nav__link">
               <i className="icon-layers"></i>
               </a>
             </li>
