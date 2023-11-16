@@ -9,20 +9,30 @@ const Menu = [
   {
     id: 1,
     image: Work1,
-    title: "Project Management Illustration",
-    category: "Design",
+    title: "Term Project: Loony Lists",
+    category: "C/C++",
+    link: "https://github.com/asterli/term-project",
+    desc: "Designed and built an abstract data type using a linked list of circular priority queue arrays.",
   },
   {
     id: 2,
     image: Work2,
-    title: "Guest App Walkthrough Screens",
-    category: "Art",
+    title: "Personal Portfolio",
+    category: "Javascript/HTML/CSS",
+    link: "https://github.com/asterli/portfolio",
+    desc: "This very website!",
   },
   {
     id: 3,
     image: Work3,
     title: "Delivery App Wireframe",
     category: "Branding",
+    link: "https://github.com/asterli/term-project",
+    desc: (
+      <div>
+        <p></p>
+      </div>
+    ),
   },
   ,
   {
@@ -30,6 +40,12 @@ const Menu = [
     image: Work4,
     title: "Onboarding Motivation",
     category: "Design",
+    link: "https://github.com/asterli/term-project",
+    desc: (
+      <div>
+        <p></p>
+      </div>
+    ),
   },
   ,
   {
@@ -37,6 +53,12 @@ const Menu = [
     image: Work5,
     title: "iMac Mockup Design",
     category: "Creative",
+    link: "https://github.com/asterli/term-project",
+    desc: (
+      <div>
+        <p></p>
+      </div>
+    ),
   },
   ,
   {
@@ -44,6 +66,12 @@ const Menu = [
     image: Work6,
     title: "Game Store App Concept",
     category: "Art",
+    link: "https://github.com/asterli/term-project",
+    desc: (
+      <div>
+        <p></p>
+      </div>
+    ),
   },
 ];
 

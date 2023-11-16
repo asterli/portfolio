@@ -1,6 +1,6 @@
 import React from 'react';
 import "./home.css";
-import Me from "../../assets/avatar-aster.png";
+import Me from "../../assets/avatar-aster-1.png";
 import HeaderSocials from './HeaderSocials';
 import ScrollDown from './ScrollDown';
 import Shapes from './Shapes';
@@ -11,18 +11,18 @@ const Home = () => {
       <div className="intro">
         <img src={Me} alt="" className="home__img" />
         <h1 className="home__name">Aster Li</h1>
-        <span className="home__education">Welcome to my portfolio page!</span>
+        <span className="home__education">Computer Science & Engineering, Management Information Systems</span>
 
         <HeaderSocials />
 
         <a href="#contact" className="btn">
-          Get to know me!
+          Get In Touch
         </a>
 
         <ScrollDown />
       </div>
 
-      {/*<Shapes />*/}
+      <Shapes />
     </section>
   )
 }
