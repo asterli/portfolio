@@ -14,7 +14,7 @@ const About = () => {
 
         <div className="about__data grid">
           <div className="about__info">
-            <p className="about__description">To me, the most important thing about my future career is that I want to make a positive impact and help others with what I do. With my degree in Computer Science and Engineering along with my minor in Management Information Systems, I can combine my technical full-stack coding skills and my knowledge in business and data analytics to drive meaningful and empowering change in the industry.</p>
+            <p className="about__description">To me, the most important thing about my future career is that I want to make a positive impact and help others with what I do. With my degree in Computer Science and Engineering along with my minor in Management Information Systems, I will be able to combine my technical full-stack coding skills and my knowledge in business and data analytics to drive meaningful and empowering change in the industry.</p>
             <a href={Resume} className="btn" target="_blank">Download Resume</a>
           </div>
 
