@@ -14,7 +14,7 @@ const About = () => {
 
         <div className="about__data grid">
           <div className="about__info">
-            <p className="about__description">As a first-generation, Computer Science and Engineering student, I am thrilled to learn more about how I can use computer software and integration to make a positive impact. Experienced in front-end development, I have built WordPress plugins that enhance newsrooms' capability of auditing diversity and inclusion in their sources. Proficient in various programming languages, I thrive on leveraging technology to help others in the future. I will be looking forward to contributing my skills to a dynamic team and driving meaningful change within the industry.</p>
+            <p className="about__description">To me, the most important thing about my future career is that I want to make a positive impact and help others with what I do. With my degree in Computer Science and Engineering along with my minor in Management Information Systems, I can combine my technical full-stack coding skills and my knowledge in business and data analytics to drive meaningful and empowering change in the industry.</p>
             <a href={Resume} className="btn" target="_blank">Download Resume</a>
           </div>
 

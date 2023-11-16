@@ -22,7 +22,7 @@ const Menu = [
     link: "https://github.com/asterli/portfolio",
     desc: "This very website!",
   },
-  {
+  /*{
     id: 3,
     image: Work3,
     title: "Delivery App Wireframe",
@@ -72,7 +72,7 @@ const Menu = [
         <p></p>
       </div>
     ),
-  },
+    },*/
 ];
 
 export default Menu

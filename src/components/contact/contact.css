@@ -48,6 +48,15 @@
     resize: none;
 }
 
+.submit__button {
+    display: flex;
+}
+
+.message__sent {
+    margin-left: 30px;
+    margin-top: 0.5rem;
+}
+
 @media screen and (max-width: 1024px) {
     .contact__container {
         grid-template-columns: 300px 360px;
