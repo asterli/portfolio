@@ -8,7 +8,7 @@ const AboutBox = () => {
 
             <div>
                 <h3 className="about__title">30+</h3>
-                <span className="about__subtitle">Video games played. I love gaming with my friends and trying different games! I also play for the first all-female collegiate Valorant team at my university. I love being able to uplift the spirits of women who love gaming but feel discouraged to do so in this industry.</span>
+                <span className="about__subtitle">Video games played. I love gaming with my friends and trying different games! I also play for an all-female collegiate Valorant team where I have built meaningful friendships and honed my teamwork skills. I also love being able to uplift the spirits of women who love gaming but feel discouraged to do so in this industry.</span>
             </div>
         </div>
 
@@ -26,7 +26,7 @@ const AboutBox = () => {
 
             <div>
                 <h3 className="about__title">5</h3>
-                <span className="about__subtitle">Years I have danced. I started taking hip hop classes junior year of high school after watching my friend perform at our school's dance show. I love being able to listen to my favorite music and move and have fun! My favorite part of hip hop is that it is very free and expressive.</span>
+                <span className="about__subtitle">Years I have danced. I started taking hip hop classes junior year of high school after my friend inspired me through her dance show performance. I love being able to listen to my favorite music and have fun! My favorite part of hip hop is that it is very free and expressive.</span>
             </div>
         </div>
 
@@ -35,7 +35,7 @@ const AboutBox = () => {
 
             <div>
                 <h3 className="about__title">7</h3>
-                <span className="about__subtitle">Countries visited. I love going to new places and meeting new people. Talking to locals is always so fascinating and I enjoy hearing stories about others' lives. Some countries on my bucket list are South Korea, Italy, and Singapore. I also love learning new languages in my free time and I have studied four so far!</span>
+                <span className="about__subtitle">Countries visited. I love going to new places and meeting new people. Talking to locals is always so fascinating and I enjoy hearing stories about others' lives. Some countries on my bucket list are South Korea, Italy, and Singapore. In my free time, I also love learning new languages and have studied four so far!</span>
             </div>
         </div>
     </div>
