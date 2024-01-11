@@ -22,7 +22,7 @@ const Home = () => {
         <ScrollDown />
       </div>
 
-      <Shapes />
+      {/*<Shapes />*/}
     </section>
   )
 }
