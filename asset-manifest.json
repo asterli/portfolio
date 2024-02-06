@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b19cdaa0.css",
-    "main.js": "/portfolio/static/js/main.d827ef22.js",
+    "main.js": "/portfolio/static/js/main.3cb77dce.js",
     "static/media/avatar-aster-1.png": "/portfolio/static/media/avatar-aster-1.fcb7cc50eb5753e6c338.png",
     "static/media/avatar-aster-2.png": "/portfolio/static/media/avatar-aster-2.519ea38fef60ad55fc4e.png",
     "static/media/pixel-cat-yawn.gif": "/portfolio/static/media/pixel-cat-yawn.d57473674d363ebec075.gif",
-    "static/media/AsterLiResume.pdf": "/portfolio/static/media/AsterLiResume.9d92b2d787ac3d579f5c.pdf",
+    "static/media/AsterLiResume.pdf": "/portfolio/static/media/AsterLiResume.79bd6ef2cfe39cea6b99.pdf",
     "static/media/work-4.svg": "/portfolio/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
     "static/media/work-3.svg": "/portfolio/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
     "static/media/work-1.svg": "/portfolio/static/media/work-1.bebc0ee30ea8dd5325cfeb0fe8f2615b.svg",
@@ -15,10 +15,10 @@
     "static/media/dots-bg.svg": "/portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/portfolio/index.html",
     "main.b19cdaa0.css.map": "/portfolio/static/css/main.b19cdaa0.css.map",
-    "main.d827ef22.js.map": "/portfolio/static/js/main.d827ef22.js.map"
+    "main.3cb77dce.js.map": "/portfolio/static/js/main.3cb77dce.js.map"
   },
   "entrypoints": [
     "static/css/main.b19cdaa0.css",
-    "static/js/main.d827ef22.js"
+    "static/js/main.3cb77dce.js"
   ]
 }
