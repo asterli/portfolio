@@ -20,8 +20,9 @@ const Portfolio = () => {
         <span className="work__item" onClick={() => setItems(Menu)}>Everything</span>
         <span className="work__item" onClick={() => filterItem("C/C++")}>C/C++</span>
         <span className="work__item" onClick={() => filterItem("Python")}>Python</span>
-        <span className="work__item" onClick={() => filterItem("Javascript/HTML/CSS")}>Javascript/HTML/CSS</span>
-        <span className="work__item" onClick={() => filterItem("SQL/Databases")}>SQL/Databases</span>
+        <span className="work__item" onClick={() => filterItem("Javascript/React/HTML/CSS")}>Javascript/React/HTML/CSS</span>
+        <span className="work__item" onClick={() => filterItem("PHP/SQL/Databases")}>PHP/SQL/Databases</span>
+        <span className="work__item" onClick={() => filterItem("Swift/React Native/Flutter")}>Swift/React Native/Flutter</span>
       </div>
 
       <div className="work__container grid">

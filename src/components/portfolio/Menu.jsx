@@ -17,62 +17,46 @@ const Menu = [
   {
     id: 2,
     image: Work2,
-    title: "Personal Portfolio",
-    category: "Javascript/HTML/CSS",
-    link: "https://github.com/asterli/portfolio",
-    desc: "This very website!",
+    title: "ClubHub",
+    category: "Javascript/React/HTML/CSS",
+    link: "https://www.youtube.com/watch?v=T_tDYpv9zZo",
+    desc: "Centralized platform for SCU students to explore and follow clubs, stay updated on events, and like and save posts that catch your eye.",
   },
-  /*{
+  {
     id: 3,
     image: Work3,
-    title: "Delivery App Wireframe",
-    category: "Branding",
-    link: "https://github.com/asterli/term-project",
-    desc: (
-      <div>
-        <p></p>
-      </div>
-    ),
+    title: "PlatePals",
+    category: "PHP/SQL/Databases",
+    link: "https://ssl.students.engr.scu.edu/~jdchung/PlatePals/home.php",
+    desc: "Webpage designed to connect cooking enthusiasts, allowing them to discover new recipes while sharing some of their own.",
   },
-  ,
-  {
-    id: 4,
-    image: Work4,
-    title: "Onboarding Motivation",
-    category: "Design",
-    link: "https://github.com/asterli/term-project",
-    desc: (
-      <div>
-        <p></p>
-      </div>
-    ),
-  },
+  // ,
+  // {
+  //   id: 4,
+  //   image: Work4,
+  //   title: "Onboarding Motivation",
+  //   category: "Design",
+  //   link: "https://github.com/asterli/term-project",
+  //   desc: "",
+  // },
   ,
   {
     id: 5,
     image: Work5,
-    title: "iMac Mockup Design",
-    category: "Creative",
-    link: "https://github.com/asterli/term-project",
-    desc: (
-      <div>
-        <p></p>
-      </div>
-    ),
+    title: "VitALZ",
+    category: "Swift/React Native/Flutter",
+    link: "https://devpost.com/software/vitalz",
+    desc: "iOS app aimed to provide support for Alzheimer’s patients and caregivers. Features medicine intake reminders, memory games, and a resource page.",
   },
-  ,
-  {
-    id: 6,
-    image: Work6,
-    title: "Game Store App Concept",
-    category: "Art",
-    link: "https://github.com/asterli/term-project",
-    desc: (
-      <div>
-        <p></p>
-      </div>
-    ),
-    },*/
+  // ,
+  // {
+  //   id: 6,
+  //   image: Work6,
+  //   title: "Game Store App Concept",
+  //   category: "Art",
+  //   link: "https://github.com/asterli/term-project",
+  //   desc: "",
+  //   },
 ];
 
 export default Menu

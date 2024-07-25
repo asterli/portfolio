@@ -5,7 +5,7 @@ const Data = [
     icon: "icon-graduation",
     year: (
       <div>
-        <p>2021-2025</p>
+        <p>Sep 2021 - Jun 2025</p>
         <p>Santa Clara University</p>
       </div>
     ),
@@ -13,8 +13,8 @@ const Data = [
     desc: (
       <div>
         <p>● GPA: 3.8/4.0</p>
-        <p>● Relevant Coursework: Object-Oriented Programming & Advanced Data Structures, Theory of Algorithms,
-        Computer Networks, Artificial Intelligence, Abstract Data Structures, Embedded Systems, Electric Circuits.</p>
+        <p>● Relevant Coursework: Object-Oriented Programming & Advanced Data Structures, Theory of Algorithms, Web Development,
+          Database Management, Computer Networks, Artificial Intelligence, Computer Architecture.</p>
         <p>● Professional Affiliations: Society of Women Engineers (SWE), Association for Computing Machinery (ACM).</p>
       </div>
     ),
@@ -25,7 +25,7 @@ const Data = [
     icon: "icon-graduation",
     year: (
       <div>
-        <p>2021-2025</p>
+        <p>Sep 2021 - Jun 2025</p>
         <p>Santa Clara University</p>
       </div>
     ),
@@ -36,45 +36,44 @@ const Data = [
         </div>
       ),
   },
-    {
-      id: 3,
-      category: "experience",
-      icon: "icon-briefcase",
-      year: (
-        <div>
-          <p>May 2023 - Present</p>
-          <p>Santa Clara University / Markkula Center for Ethics</p>
-        </div>
-      ),
-      title: "Frontend Developer and Researcher",
-      desc: (
-        <div>
-          <p>● Build custom WordPress plugins and databases that enable newsrooms to perform data analyses and efficiently
-audit diversity, equity, and inclusion in quoted sources.</p>
-          <p>● Develop UI/UX functionality for 5+ newsrooms, improving reporters' user experience by 85%.</p>
-          <p>● Collaborate with a cross-functional team of 5 engineers and a project director.</p>
-          <p>● Perform thorough unit and functional testing while practicing the software development life cycle, ensuring a
-high-quality product and minimizing potential issues.</p>
-          <p>● Skills used: PHP, SQL, Javascript, WordPress API</p>
-        </div>
-      ),
-    },
+  {
+    id: 3,
+    category: "experience",
+    icon: "icon-briefcase",
+    year: (
+      <div>
+        <p>Jun 2024 - Present</p>
+        <p>Gilead Sciences</p>
+      </div>
+    ),
+    title: "Software Developer Intern",
+    desc: (
+      <div>
+        <p>● Design and implement an automated form submission and task management system for Gilead’s biostatistics team, improving efficiency and accuracy in data handling.</p>
+        <p>● Conduct extensive research and analysis on different software and services to understand project requirements and translate them into technical specifications.</p>
+        <p>● Demonstrate self-motivation and initiative in managing project timelines and ensuring successful completion.</p>
+        <p>● Skills: Microsoft Power Automate, Microsoft Azure DevOps</p>
+      </div>
+    ),
+  },
     {
       id: 4,
       category: "experience",
       icon: "icon-briefcase",
       year: (
         <div>
-          <p>Aug 2022 - Present</p>
-          <p>Santa Clara University</p>
+          <p>May 2023 - May 2024</p>
+          <p>Santa Clara University / Markkula Center for Applied Ethics</p>
         </div>
       ),
-      title: "Engineering TA-Grader",
+      title: "Full-Stack Software Engineer and Researcher",
       desc: (
         <div>
-          <p>● Grade and provide feedback on over 150 assignments per week for first-year engineering students.</p>
-          <p>● Manage workload and grading deadlines effectively, contributing to a smooth learning experience for students and
-efficient course administration</p>
+          <p>● Build custom WordPress plugins that enable newsrooms to perform data analyses and efficiently audit diversity, equity, and inclusion in quoted sources.</p>
+          <p>● Develop UI/UX and backend functionality for 5+ newrooms, improving the user experience for reporters.</p>
+          <p>● Collaborate with a cross-functional team of 5 engineers and a project director.</p>
+          <p>● Perform thorough sanity testing and practice the software development life cycle, ensuring a high-quality product and minimizing potential issues.</p>
+          <p>● Skills: PHP, SQL, Javascript, WordPress Development</p>
         </div>
       ),
     },

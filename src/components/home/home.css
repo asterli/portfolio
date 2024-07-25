@@ -46,10 +46,6 @@
     width: 100%;
 }
 
-.home__scroll-name {
-    font-size: var(--small-font-size);
-}
-
 .mouse {
     border: 2px solid #454360;
     display: block;

@@ -18,7 +18,7 @@ const About = () => {
             <a href={Resume} className="btn" target="_blank">Open Resume</a>
           </div>
 
-          <div className="about__skills grid">
+          {/* <div className="about__skills grid">
             <div className="skills__data">
               <div className="skills__titles">
                 <h3 className="skills__name">Development</h3>
@@ -51,7 +51,7 @@ const About = () => {
                 <span className="skills__percentage time__management"></span>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
 

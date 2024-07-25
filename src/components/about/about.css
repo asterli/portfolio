@@ -8,8 +8,8 @@
     background-color: var(--container-color);
     box-shadow: var(--shadow);
     border-radius: var(--border-radius);
-    grid-template-columns: repeat(2, 1fr);
-    column-gap: 1.875rem;
+    /* grid-template-columns: repeat(2, 1fr);
+    column-gap: 1.875rem; */
     align-items: flex-start;
     position: relative;
 }
@@ -24,6 +24,10 @@
     position: absolute;
     left: -0.93rem;
     top: 20%;
+}
+
+.about__info {
+    text-align: center;
 }
 
 .about__description {
