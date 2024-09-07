@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.64cd0514.css",
-    "main.js": "/portfolio/static/js/main.3cdb89e6.js",
+    "main.js": "/portfolio/static/js/main.bca996cc.js",
     "static/media/avatar-aster-2.png": "/portfolio/static/media/avatar-aster-2.519ea38fef60ad55fc4e.png",
     "static/media/loonylists.png": "/portfolio/static/media/loonylists.c2982aa7822852f28ee7.png",
     "static/media/pixel-cat-yawn.gif": "/portfolio/static/media/pixel-cat-yawn.d57473674d363ebec075.gif",
     "static/media/avatar-aster-3.jpg": "/portfolio/static/media/avatar-aster-3.679cf19b13712ecd1564.jpg",
-    "static/media/AsterLiResume.pdf": "/portfolio/static/media/AsterLiResume.79bd6ef2cfe39cea6b99.pdf",
+    "static/media/AsterLiResume.pdf": "/portfolio/static/media/AsterLiResume.6598178067c5943b4445.pdf",
     "static/media/platepals.jpeg": "/portfolio/static/media/platepals.b172db58b17b3626544b.jpeg",
     "static/media/clubhub.jpeg": "/portfolio/static/media/clubhub.c2b863d0fd53cff407d4.jpeg",
     "static/media/work-6.svg": "/portfolio/static/media/work-6.e53b868f21628c547fd12d76c5b599db.svg",
     "static/media/dots-bg.svg": "/portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/portfolio/index.html",
     "main.64cd0514.css.map": "/portfolio/static/css/main.64cd0514.css.map",
-    "main.3cdb89e6.js.map": "/portfolio/static/js/main.3cdb89e6.js.map"
+    "main.bca996cc.js.map": "/portfolio/static/js/main.bca996cc.js.map"
   },
   "entrypoints": [
     "static/css/main.64cd0514.css",
-    "static/js/main.3cdb89e6.js"
+    "static/js/main.bca996cc.js"
   ]
 }
