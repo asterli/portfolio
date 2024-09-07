@@ -46,11 +46,11 @@ const Data = [
         <p>Gilead Sciences</p>
       </div>
     ),
-    title: "Software Developer Intern",
+    title: "Software Development Intern",
     desc: (
       <div>
-        <p>● Design and implement an automated form submission and task management system for Gilead’s biostatistics team, improving efficiency and accuracy in data handling.</p>
-        <p>● Conduct extensive research and analysis on different software and services to understand project requirements and translate them into technical specifications.</p>
+        <p>● Design and implement an automated user request and task tracking system for Gilead’s statistical programming team, enhancing data handling efficiency and accuracy, and enabling the team to focus on core tasks by reducing the manual effort required for task tracking.</p>
+        <p>● Conduct extensive research and analysis on different software and services to understand and translate user requirements into technical specifications.</p>
         <p>● Demonstrate self-motivation and initiative in managing project timelines and ensuring successful completion.</p>
         <p>● Skills: Microsoft Power Automate, Microsoft Azure DevOps</p>
       </div>

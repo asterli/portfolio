@@ -1,8 +1,12 @@
-import Work1 from "../../assets/work-1.svg";
-import Work2 from "../../assets/work-2.svg";
-import Work3 from "../../assets/work-3.svg";
-import Work4 from "../../assets/work-4.svg";
-import Work5 from "../../assets/work-5.svg";
+import Work1 from "../../assets/loonylists.png";
+// import Work1 from "../../assets/work-1.svg";
+import Work2 from "../../assets/clubhub.jpeg";
+// import Work2 from "../../assets/work-2.svg";
+import Work3 from "../../assets/platepals.jpeg";
+// import Work3 from "../../assets/work-3.svg";
+// import Work4 from "../../assets/work-4.svg";
+import Work5 from "../../assets/vitalz.jpeg";
+// import Work5 from "../../assets/work-5.svg";
 import Work6 from "../../assets/work-6.svg";
 
 const Menu = [

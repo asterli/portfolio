@@ -99,6 +99,11 @@
     transition: .3s;
     opacity: 0;
 }
+.work__img {
+    height: 16.7rem;
+    width: 21rem;
+    object-fit: cover;
+}
 
 .work__card:hover .work__button {
     opacity: 1;
