@@ -32,7 +32,7 @@ const Menu = [
     title: "PlatePals",
     category: "PHP/SQL/Databases",
     link: "https://ssl.students.engr.scu.edu/~jdchung/PlatePals/home.php",
-    desc: "Webpage designed to connect cooking enthusiasts, allowing them to discover new recipes while sharing some of their own.",
+    desc: "Webpage created to connect cooking enthusiasts, allowing them to discover new recipes while sharing some of their own.",
   },
   // ,
   // {
